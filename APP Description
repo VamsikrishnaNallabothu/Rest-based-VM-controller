@@ -1,0 +1,2 @@
+VM management can be done directly through the app or through vagrant
+Since the VM management with the libvirt takes more time, we use vagrant and have created, deleted, query the VM and the slide show contains screenshots from the vagrant

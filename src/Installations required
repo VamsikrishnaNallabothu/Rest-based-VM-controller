@@ -1,0 +1,15 @@
+CMPE 284 project installations required before running the app:
+Ceph should be deployed on all OSD's
+
+Installl Ceph
+Install Flask
+Install Libvirt Dependencies
+Install SQLite
+Install Mongotool kit
+Install Vagrant
+Install SSH
+Install Ceph
+Install rbd and rados packages
+Install a light weight OS
+
+Test: Vamsi and Manidheep's Laptop
